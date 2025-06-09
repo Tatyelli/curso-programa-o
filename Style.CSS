@@ -1,0 +1,13 @@
+h2{
+    color: orange;
+}
+body{
+    background-color: #293737; 
+    color: white;
+    font-family: arial;
+    text-align: center;
+    }
+
+    ul{
+        list-style-position: inside;
+    }
